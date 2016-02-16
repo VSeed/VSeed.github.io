@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://VSeed.github.io
+title: notjustme
+tagline: A log of everyday life
+description: Notjustme is a multipurpose blog, it focuses attention on many facets of social networking.
+paginate: 5
